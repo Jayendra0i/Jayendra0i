@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayendra singh</h1>
-<h3 align="center">A passionate soft Engineer developer from India</h3>
+<h3 align="center">A passionate softwar Engineer developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1kazZ5MzR4cG1mejZvcncwMzl3dzVsaGxzbGMxaTd5a3d0cG1weiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.webp" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayendra0i&label=Profile%20views&color=0e75b6&style=flat" alt="jayendra0i" /> </p>
